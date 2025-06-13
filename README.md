@@ -1,5 +1,7 @@
 # Customer-Segmentation-Project
 
+![image](https://github.com/user-attachments/assets/d618b903-286f-467c-b0b0-40e8435aebe8)
+
 # Customer Segmentation for Personalized Financial Product Offerings
 A project using Kaggle’s Bank Marketing dataset (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset).
 
