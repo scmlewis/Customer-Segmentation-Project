@@ -26,7 +26,7 @@ This report presents the findings and recommendations from a customer segmentati
 
 ## 2. Methodology
 ### 2.1 Data Acquisition
-The dataset was sourced from Kaggle (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset), containing demographic (age, job), financial (balance), and behavioral (pdays, deposit) features. It was saved to `C:\Users\Lewis\Documents\Customer-Segmentation-Project\data\bank.csv` and explored using Python (pandas, seaborn) to confirm 11,162 rows, no missing values, and balanced deposit distribution.
+The dataset was sourced from Kaggle (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset), containing demographic (age, job), financial (balance), and behavioral (pdays, deposit) features. It was saved to `\data\bank.csv` and explored using Python (pandas, seaborn) to confirm 11,162 rows, no missing values, and balanced deposit distribution.
 
 ### 2.2 Data Preprocessing
 - **Outlier Handling**: `balance` was capped at the 99th percentile (~13226.98) to address extreme values, and `pdays` (-1 indicating no prior contact) was replaced with 0.
