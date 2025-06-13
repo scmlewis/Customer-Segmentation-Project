@@ -1,7 +1,7 @@
 # Customer-Segmentation-Project
 
 # Customer Segmentation for Personalized Financial Product Offerings
-MSc Business Analytics project at HKUST Business School, using Kaggle’s Bank Marketing dataset (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset).
+A project using Kaggle’s Bank Marketing dataset (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset).
 
 ## Data
 - Source: Kaggle Bank Marketing dataset (11,162 records, 17 features).
