@@ -24,7 +24,7 @@ A project using Kaggle’s Bank Marketing dataset (https://www.kaggle.com/datase
 
 
 ## 1. Introduction
-This report presents the findings and recommendations from a customer segmentation analysis conducted as part of the MSc in Business Analytics at HKUST Business School. Utilizing Kaggle’s Bank Marketing dataset (11,162 records, 17 features), the project aimed to segment customers into 4–6 clusters, characterize these segments, and propose tailored marketing strategies to achieve a projected 12–18% conversion increase. The analysis leverages clustering techniques to enhance personalized financial product offerings.
+This report presents the findings and recommendations from a customer segmentation analysis conducted utilizing Kaggle’s Bank Marketing dataset (11,162 records, 17 features), the project aimed to segment customers into 4–6 clusters, characterize these segments, and propose tailored marketing strategies to achieve a projected 12–18% conversion increase. The analysis leverages clustering techniques to enhance personalized financial product offerings.
 
 ## 2. Methodology
 ### 2.1 Data Acquisition
@@ -63,4 +63,4 @@ The dataset was sourced from Kaggle (https://www.kaggle.com/datasets/janiobachma
 The targeted strategies are projected to increase conversion rates by 12–18%, with segment-specific metrics contributing to a cumulative uplift based on response and conversion rates.
 
 ## 5. Conclusion
-This analysis successfully segmented 11,162 customers into four clusters, providing actionable insights for personalized marketing. The recommendations, supported by a Silhouette Score of 0.1894, aim to enhance customer engagement and conversion. Next steps include finalizing the report and hosting deliverables.
+This analysis successfully segmented 11,162 customers into four clusters, providing actionable insights for personalized marketing. The recommendations, supported by a Silhouette Score of 0.1894, aim to enhance customer engagement and conversion.
