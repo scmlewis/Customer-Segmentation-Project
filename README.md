@@ -204,24 +204,6 @@ Evaluated **3 clustering algorithms** using multiple validation metrics:
 
 ---
 
-### Visualization Highlights
-
-#### Exploratory Data Analysis
-![age_distribution](https://github.com/user-attachments/assets/c18d6ce9-168c-454c-ae76-9a8d1b7e34f0)
-*Age Distribution*: Bell-shaped distribution centered at 40 years, slight right skew toward older customers
-
-![balance_distribution](https://github.com/user-attachments/assets/ea509297-2a1f-485b-b833-721ad275ac68)
-*Balance Distribution*: Highly right-skewed with long tail toward affluent customers (log transformation applied)
-
-![deposit_counts](https://github.com/user-attachments/assets/cb772f8b-1c45-41df-96da-eb92d3eea54e)
-*Deposit Distribution*: Balanced target variable (52% no, 48% yes) - suitable for segmentation
-
-#### Cluster Visualization
-![pca_4_clusters](https://github.com/user-attachments/assets/4bdc4a4c-6cb0-4d68-90b3-580c6e014a7b)
-*PCA Scatter Plot*: 5 clusters visualized in 2D principal component space showing reasonable separation
-
----
-
 ## Business Recommendations
 
 ### Strategic Priority Ranking
