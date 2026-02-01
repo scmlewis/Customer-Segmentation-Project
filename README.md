@@ -1,7 +1,5 @@
 # Customer Segmentation for Personalized Financial Product Offerings
 
-![image](https://github.com/user-attachments/assets/d618b903-286f-467c-b0b0-40e8435aebe8)
-
 ## Project Overview
 This project performs customer segmentation analysis using Kaggle's Bank Marketing dataset to identify distinct customer groups for targeted marketing strategies. Through unsupervised machine learning and comprehensive feature engineering, we identified **5 distinct customer segments** with deposit conversion rates ranging from 34.1% to 88.9%.
 
@@ -10,16 +8,6 @@ This project performs customer segmentation analysis using Kaggle's Bank Marketi
 
 ---
 
-## Table of Contents
-1. [Installation & Setup](#installation--setup)
-2. [Project Structure](#project-structure)
-3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Business Recommendations](#business-recommendations)
-6. [Model Deployment](#model-deployment)
-7. [Key Findings](#key-findings)
-
----
 
 ## Installation & Setup
 
@@ -38,26 +26,6 @@ python inference.py
 ```
 
 **Requirements**: Python 3.8+, pandas, numpy, scikit-learn, matplotlib, seaborn, scipy, statsmodels, joblib
-
----
-
-## Project Structure
-
-```
-Customer-Segmentation-Project/
-├── data/
-│   └── bank.csv                    # Raw dataset (11,162 records)
-├── notebook/
-│   └── data_exploration.ipynb      # Main analysis notebook
-├── output/
-│   ├── cluster_summary.txt         # Detailed cluster profiles
-│   ├── clustered_data_final.csv    # Labeled dataset
-│   ├── preprocessing artifacts     # Model files (.pkl)
-│   └── visualizations (.png)       # EDA and clustering plots
-├── inference.py                    # Production inference pipeline
-├── requirements.txt                # Python dependencies
-└── README.md                       # This file
-```
 
 ---
 
@@ -460,9 +428,3 @@ clusters = predict_clusters(new_customers, preprocessor, variance_selector, mode
 
 ---
 
-## Contact & Contributions
-**Author**: Lewis  
-**Project Repository**: [GitHub Link]  
-**Last Updated**: February 2026
-
-For questions, suggestions, or collaboration opportunities, please open an issue or submit a pull request.
